@@ -6,7 +6,7 @@ import { abi, contractAddress } from './web3Files/ABI';
 import { ethers } from "ethers";
 const { utils, BigNumber } = require("ethers");
 
-const { add , setadd } = useState("")
+//const { add , setadd } = useState("")
 
  
 
